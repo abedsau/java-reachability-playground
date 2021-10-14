@@ -65,7 +65,7 @@ jobs:
 
     #- run: |
     #   make bootstrap
-    #   make release  See  
+    #   make release  See  1
  
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
